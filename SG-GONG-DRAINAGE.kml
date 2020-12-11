@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>DRAINAGE.kml</name>
+	<Style id="line1">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Line Features</name>
+		<description>Line Features</description>
+		<Placemark>
+			<description><![CDATA[Unknown Line Type<BR><BR><B>LENGTH</B> = 191.26 m<BR><B>BEARING</B> = 37° 20' 51.6"]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.5284886242,3.3159405729,0 101.5285405193,3.3160396637,0 101.5285424966,3.316043398600001,0 101.5285002041,3.3160647096,0 101.5285965432,3.3162097674,0 101.5285987676,3.3162883656,0 101.5289598742,3.3166210483,0 101.5293686835,3.316995254600001,0 101.5294413497,3.317169258,0 101.5294737281,3.3172379696,0 101.5294737281,3.3172379696,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Line Type<BR><BR><B>LENGTH</B> = 211.69 m<BR><B>BEARING</B> = 40° 58' 3.5"]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.5343817831,3.3118101481,0 101.5344692792,3.311755277700001,0 101.5345955799,3.311894183899999,0 101.5347888622,3.3121373932,0 101.5352532833,3.3127439336,0 101.535450273,3.3130009842,0 101.5355639684,3.3131621351,0 101.5355699004,3.3131853685,0 101.5355699004,3.3131853685,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
